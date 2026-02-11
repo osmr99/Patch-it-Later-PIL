@@ -23,5 +23,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/My Levels/5-1.unity
     guid: d51d875602d072544abadc6040d82ddb
+  - enabled: 1
+    path: Assets/My Levels/5-2.unity
+    guid: 3372b57a33a3b5845a399431d4c0f252
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
